@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "6FF2F367-8234-4282-8CB5-82251CC8234F"
+		"uuidString": "1BA23C62-0BF9-4B14-AC99-65BEEA3AF783"
 		}
 	],
 "creatorBuild": "26680",
@@ -30,6 +30,230 @@
 		"oAP": "\/about\/index.html",
 		"oF": 0
 		},
+	"\/assets\/_css\/web-serial.min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/_css\/web-serial.min-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/_css\/web-serial.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/_css\/web-serial.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/_css\/web-serial.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/_css\/web-serial.min.css.map",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/5833df3b77eb7c8c6dc722c171ef936c4d3172f5\/stylesheet.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/5833df3b77eb7c8c6dc722c171ef936c4d3172f5\/stylesheet.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_blocks.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_blocks.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_components.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_components.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_hacks.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_hacks.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_helpers.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_helpers.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_marked.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_marked.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_normalize.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_normalize.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_vars.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_vars.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/Web Serial.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/_in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/Web Serial.scssc",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/_blocks.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/_blocks.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/_in\/sass\/_components.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/_components.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/_in\/sass\/_debug.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/_debug.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/_in\/sass\/_hacks.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/_hacks.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/_in\/sass\/_helpers.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/_helpers.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/_in\/sass\/_marked.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/_marked.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/_in\/sass\/_normalize.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/_normalize.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/_in\/sass\/_vars.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/_in\/sass\/_vars.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/assets\/_in\/sass\/web-serial.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/_in\/sass\/web-serial-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/_in\/sass\/web-serial.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/_in\/sass\/web-serial.css.map",
+		"oF": 0
+		},
+	"\/assets\/_in\/sass\/web-serial.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/assets\/_in\/sass\/web-serial.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/assets\/jquery.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -51,31 +275,18 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/web-serial-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/web-serial-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/web-serial.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/web-serial-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/chapters\/origine-1.1\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/chapters\/origine-1.1\/index.html",
+		"oF": 0
+		},
+	"\/chapters\/origine-1.2\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/chapters\/origine-1.2\/index.html",
 		"oF": 0
 		},
 	"\/chapters\/prologue-decadence\/index.html": {
@@ -120,6 +331,13 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/origine-1.1\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/origine-1.1\/index.html",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -138,6 +356,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/sync.sh": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sync.sh",
+		"oF": 0
+		},
 	"\/wiki\/divergences\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -154,14 +379,23 @@
 		}
 	},
 "hooks": [
+	{
+		"enabled": 1,
+		"name": "Copy PubLite output in \"Ascension - Website\" project folder",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGoaJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKgcIDxkhKywvNjo\/QENHS1BRVFthZWptbnB1eHl7gIOEhouOj5GWmZqcnlUkbnVsbNMJCgsMDQ5fEBdOU0NvbXBvdW5kUHJlZGljYXRlVHlwZV8QD05TU3VicHJlZGljYXRlc1YkY2xhc3MQAoACgCnSEAsRGFpOUy5vYmplY3RzphITFBUWF4ADgBSAGIAcgCCAJIAo1AsaGxwdHh8gXxARTlNSaWdodEV4cHJlc3Npb25fEBBOU0xlZnRFeHByZXNzaW9uXxATTlNQcmVkaWNhdGVPcGVyYXRvcoATgA6ABIAR1SIjJCULJicoKSpZTlNPcGVyYW5kXk5TU2VsZWN0b3JOYW1lXxAQTlNFeHByZXNzaW9uVHlwZVtOU0FyZ3VtZW50c4AGgAUQA4AIgA1cdmFsdWVGb3JLZXk60iQLLS4QAYAH0jAxMjNaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TU2VsZkV4cHJlc3Npb26jMjQ1XE5TRXhwcmVzc2lvblhOU09iamVjdNIQCzc5oTiACYAM0wskOzw9PllOU0tleVBhdGiACxAKgApdaW5wdXRGaWxlbmFtZdIwMUFCXxAcTlNLZXlQYXRoU3BlY2lmaWVyRXhwcmVzc2lvbqNBNDXSMDFERV5OU011dGFibGVBcnJheaNERjVXTlNBcnJhedIwMUhJXxATTlNLZXlQYXRoRXhwcmVzc2lvbqRISjQ1XxAUTlNGdW5jdGlvbkV4cHJlc3Npb27TTCQLTU5PXxAPTlNDb25zdGFudFZhbHVlgA8QAIAQVS5odG1s0jAxUlNfEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo1I0NdULVVZXWFlOKC1aWk5TTW9kaWZpZXJXTlNGbGFnc1pOU1Bvc2l0aW9uXk5TT3BlcmF0b3JUeXBlgBIQCdIwMVxdXxAcTlNTdWJzdHJpbmdQcmVkaWNhdGVPcGVyYXRvcqReX2A1XxAcTlNTdWJzdHJpbmdQcmVkaWNhdGVPcGVyYXRvcl8QGU5TU3RyaW5nUHJlZGljYXRlT3BlcmF0b3JfEBNOU1ByZWRpY2F0ZU9wZXJhdG9y0jAxYmNfEBVOU0NvbXBhcmlzb25QcmVkaWNhdGWjYmQ1W05TUHJlZGljYXRl1AsaGxwdZx9pgBOAFYAEgBfTTCQLa05PgBaAEFQuY3Nz1QtVVldYWU4oLVqAEtQLGhscHXIfdIATgBmABIAb00wkC3ZOT4AagBBTLmpz1QtVVldYWU4oLVqAEtQLGhscHX0ff4ATgB2ABIAf00wkC4FOT4AegBBULmpwZ9ULVVZXWFlOKC1agBLUCxobHB2IH4qAE4AhgASAI9NMJAuMTk+AIoAQVC5wbmfVC1VWV1hZTigtWoAS1AsaGxwdkx+VgBOAJYAEgCfTTCQLl05PgCaAEFQuc3Zn1QtVVldYWU4oLVqAEtIwMUadokY10jAxn6BfEBNOU0NvbXBvdW5kUHJlZGljYXRlo59kNV8QD05TS2V5ZWRBcmNoaXZlctGjpFRyb290gAEACAARABoAIwAtADIANwBkAGoAcQCLAJ0ApACmAKgAqgCvALoAwQDDAMUAxwDJAMsAzQDPANgA7AD\/ARUBFwEZARsBHQEoATIBQQFUAWABYgFkAWYBaAFqAXcBfAF+AYABhQGQAZkBrAGwAb0BxgHLAc0BzwHRAdgB4gHkAeYB6AH2AfsCGgIeAiMCMgI2Aj4CQwJZAl4CdQJ8Ao4CkAKSApQCmgKfArsCvwLKAtUC3QLoAvcC+QL7AwADHwMkA0MDXwN1A3oDkgOWA6IDqwOtA68DsQOzA7oDvAO+A8MDzgPQA9kD2wPdA98D4QPoA+oD7APwA\/sD\/QQGBAgECgQMBA4EFQQXBBkEHgQpBCsENAQ2BDgEOgQ8BEMERQRHBEwEVwRZBGIEZARmBGgEagRxBHMEdQR6BIUEhwSMBI8ElASqBK4EwATDBMgAAAAAAAACAQAAAAAAAAClAAAAAAAAAAAAAAAAAAAEyg==",
+		"runOrder": 0,
+		"scriptSourceString": "rsync -av --exclude=\"bower.json\" --exclude=\"Gemfile*\" --exclude=\".DS_Store\" \/Volumes\/Data\/vivien\/Digital\\ Creation\/PubLite\/docs\/ \/Volumes\/Data\/vivien\/Digital\\ Creation\/Ascension\\ -\\ Website",
+		"scriptType": 1,
+		"uuidString": "3354C450-05D3-4B1B-ADEF-766E19F82EC9"
+		}
 	],
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 550255526,
+	"creationDate": 554058869,
 	"displayValue": "Ascension - Website",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-ron",
+	"iconImageName": "meme-soon",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
