@@ -84,23 +84,16 @@
 	}
 }
 
-
-/* ++ #wrapper is for marked.app */
-#wrapper, .content-chapter
+.content-chapter
 {
 	padding-bottom: 4.2rem;
 
 	p
 	{
-		padding: 1.0rem 0 0;
-		text-indent: 1.2rem;
+		padding: 1.5rem 0 0;
+		text-indent: 1.6rem;
 		text-align: justify;
 		text-align-last: auto;
-	}
-
-	hr + p
-	{
-		text-indent: 0;
 	}
 
 	ul + p, p:first-of-type
@@ -121,7 +114,7 @@
 		border-top: 2px solid $colorset-main_grey-light;
 		width: 50%;
 		padding: 1.8rem 0 0;
-		margin: 5.4rem auto 0;
+		margin: 6rem auto 0;
 	}
 
 	ul > li

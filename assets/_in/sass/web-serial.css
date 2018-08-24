@@ -36,7 +36,7 @@ marquée des paragraphes.
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
-/* line 11, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 13, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 html {
   line-height: 1.15;
   /* 1 */
@@ -49,7 +49,7 @@ html {
 /**
  * Remove the margin in all browsers.
  */
-/* line 23, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 25, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 body {
   margin: 0;
 }
@@ -58,7 +58,7 @@ body {
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
-/* line 32, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 34, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -70,7 +70,7 @@ h1 {
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 45, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 47, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 hr {
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
@@ -85,7 +85,7 @@ hr {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 56, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 58, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 pre {
   font-family: monospace, monospace;
   /* 1 */
@@ -98,7 +98,7 @@ pre {
 /**
  * Remove the gray background on active links in IE 10.
  */
-/* line 68, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 70, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 a {
   background-color: transparent;
 }
@@ -107,7 +107,7 @@ a {
  * 1. Remove the bottom border in Chrome 57-
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 77, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 79, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -121,7 +121,7 @@ abbr[title] {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 87, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 89, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 b,
 strong {
   font-weight: bolder;
@@ -131,7 +131,7 @@ strong {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 97, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 99, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 code,
 kbd,
 samp {
@@ -144,7 +144,7 @@ samp {
 /**
  * Add the correct font size in all browsers.
  */
-/* line 108, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 110, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 small {
   font-size: 80%;
 }
@@ -153,7 +153,7 @@ small {
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
  */
-/* line 117, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 119, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -162,12 +162,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 125, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 127, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 sub {
   bottom: -0.25em;
 }
 
-/* line 129, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 131, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 sup {
   top: -0.5em;
 }
@@ -177,7 +177,7 @@ sup {
 /**
  * Remove the border on images inside links in IE 10.
  */
-/* line 140, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 142, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 img {
   border-style: none;
 }
@@ -188,7 +188,7 @@ img {
  * 1. Change the font styles in all browsers.
  * 2. Remove the margin in Firefox and Safari.
  */
-/* line 152, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 154, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 button,
 input,
 optgroup,
@@ -208,7 +208,7 @@ textarea {
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
  */
-/* line 168, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 170, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 button,
 input {
   /* 1 */
@@ -219,7 +219,7 @@ input {
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
  * 1. Remove the inheritance of text transform in Firefox.
  */
-/* line 178, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 180, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 button,
 select {
   /* 1 */
@@ -229,7 +229,7 @@ select {
 /**
  * Correct the inability to style clickable types in iOS and Safari.
  */
-/* line 187, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 189, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 button,
 [type="button"],
 [type="reset"],
@@ -240,7 +240,7 @@ button,
 /**
  * Remove the inner border and padding in Firefox.
  */
-/* line 198, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 200, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
@@ -252,7 +252,7 @@ button::-moz-focus-inner,
 /**
  * Restore the focus styles unset by the previous rule.
  */
-/* line 210, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 212, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
@@ -263,7 +263,7 @@ button:-moz-focusring,
 /**
  * Correct the padding in Firefox.
  */
-/* line 221, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 223, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 fieldset {
   padding: 0.35em 0.75em 0.625em;
 }
@@ -274,7 +274,7 @@ fieldset {
  * 3. Remove the padding so developers are not caught out when they zero out
  *    `fieldset` elements in all browsers.
  */
-/* line 232, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 234, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 legend {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -294,7 +294,7 @@ legend {
 /**
  * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
-/* line 245, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 247, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 progress {
   vertical-align: baseline;
 }
@@ -302,7 +302,7 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE 10+.
  */
-/* line 253, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 255, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 textarea {
   overflow: auto;
 }
@@ -311,7 +311,7 @@ textarea {
  * 1. Add the correct box sizing in IE 10.
  * 2. Remove the padding in IE 10.
  */
-/* line 262, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 264, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 [type="checkbox"],
 [type="radio"] {
   -webkit-box-sizing: border-box;
@@ -324,7 +324,7 @@ textarea {
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
-/* line 272, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 274, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto;
@@ -334,7 +334,7 @@ textarea {
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
-/* line 282, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 284, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 [type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -345,7 +345,7 @@ textarea {
 /**
  * Remove the inner padding in Chrome and Safari on macOS.
  */
-/* line 291, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 293, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
@@ -354,7 +354,7 @@ textarea {
  * 1. Correct the inability to style clickable types in iOS and Safari.
  * 2. Change font properties to `inherit` in Safari.
  */
-/* line 300, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 302, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   /* 1 */
@@ -367,7 +367,7 @@ textarea {
 /*
  * Add the correct display in Edge, IE 10+, and Firefox.
  */
-/* line 312, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 314, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 details {
   display: block;
 }
@@ -375,7 +375,7 @@ details {
 /*
  * Add the correct display in all browsers.
  */
-/* line 320, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 322, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 summary {
   display: list-item;
 }
@@ -385,7 +385,7 @@ summary {
 /**
  * Add the correct display in IE 10+.
  */
-/* line 331, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 333, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 template {
   display: none;
 }
@@ -393,7 +393,7 @@ template {
 /**
  * Add the correct display in IE 10.
  */
-/* line 339, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
+/* line 341, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_normalize.scss */
 [hidden] {
   display: none;
 }
@@ -934,53 +934,47 @@ table tr:nth-child(2n) {
   }
 }
 
-/* ++ #wrapper is for marked.app */
-/* line 89, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
-#wrapper, .content-chapter {
+/* line 87, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
+.content-chapter {
   padding-bottom: 4.2rem;
 }
 
-/* line 93, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
-#wrapper p, .content-chapter p {
-  padding: 1.0rem 0 0;
-  text-indent: 1.2rem;
+/* line 91, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
+.content-chapter p {
+  padding: 1.5rem 0 0;
+  text-indent: 1.6rem;
   text-align: justify;
   text-align-last: auto;
 }
 
-/* line 101, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
-#wrapper hr + p, .content-chapter hr + p {
-  text-indent: 0;
-}
-
-/* line 106, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
-#wrapper ul + p, #wrapper p:first-of-type, .content-chapter ul + p, .content-chapter p:first-of-type {
+/* line 99, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
+.content-chapter ul + p, .content-chapter p:first-of-type {
   text-indent: unset;
 }
 
-/* line 111, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
-#wrapper h2.typo-m, .content-chapter h2.typo-m {
+/* line 104, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
+.content-chapter h2.typo-m {
   text-transform: uppercase;
   font-size: 2.8rem;
   padding-top: 3.6rem;
   font-family: Alegreya, "Iowan Old Style", Georgia, serif;
 }
 
-/* line 119, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
-#wrapper hr, .content-chapter hr {
+/* line 112, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
+.content-chapter hr {
   border-top: 2px solid #babab9;
   width: 50%;
   padding: 1.8rem 0 0;
-  margin: 5.4rem auto 0;
+  margin: 6rem auto 0;
 }
 
-/* line 127, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
-#wrapper ul > li, .content-chapter ul > li {
+/* line 120, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
+.content-chapter ul > li {
   list-style-type: none;
 }
 
-/* line 131, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
-#wrapper ul > li:before, .content-chapter ul > li:before {
+/* line 124, Volumes/Data/vivien/Digital Creation/PubLite/docs/assets/_in/sass/_blocks.scss */
+.content-chapter ul > li:before {
   content: '\25aa \a0';
   display: inline-block;
   vertical-align: middle;

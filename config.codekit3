@@ -254,6 +254,23 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/assets\/css\/web-serial.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/web-serial.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/css\/web-serial.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/css\/web-serial.min.css.map",
+		"oF": 0
+		},
 	"\/assets\/jquery.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2150,7 +2167,7 @@
 		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
