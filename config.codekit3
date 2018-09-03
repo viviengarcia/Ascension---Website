@@ -16,471 +16,222 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/.sass-cache\/96e00fd8c4772c8cfbf53f885b5a1e158c51f245\/_base.scssc": {
+	"\/404\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/404\/index.html",
+		"oF": 0
+		},
+	"\/about\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/about\/index.html",
+		"oF": 0
+		},
+	"\/assets\/css\/web-serial.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/web-serial.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/css\/web-serial.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/css\/web-serial.min.css.map",
+		"oF": 0
+		},
+	"\/assets\/in\/sass\/.sass-cache\/5833df3b77eb7c8c6dc722c171ef936c4d3172f5\/stylesheet.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/5833df3b77eb7c8c6dc722c171ef936c4d3172f5\/stylesheet.scssc",
+		"oF": 0
+		},
+	"\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_blocks.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/.sass-cache\/96e00fd8c4772c8cfbf53f885b5a1e158c51f245\/_base.scssc",
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_blocks.scssc",
 		"oF": 0
 		},
-	"\/.sass-cache\/96e00fd8c4772c8cfbf53f885b5a1e158c51f245\/_layout.scssc": {
+	"\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_components.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/.sass-cache\/96e00fd8c4772c8cfbf53f885b5a1e158c51f245\/_layout.scssc",
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_components.scssc",
 		"oF": 0
 		},
-	"\/.sass-cache\/96e00fd8c4772c8cfbf53f885b5a1e158c51f245\/_syntax-highlighting.scssc": {
+	"\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_hacks.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/.sass-cache\/96e00fd8c4772c8cfbf53f885b5a1e158c51f245\/_syntax-highlighting.scssc",
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_hacks.scssc",
 		"oF": 0
 		},
-	"\/.sass-cache\/ec2d74292048ef3bda3c2858c5c8861bd5c5096c\/minima.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/.sass-cache\/ec2d74292048ef3bda3c2858c5c8861bd5c5096c\/minima.scssc",
-		"oF": 0
-		},
-	"\/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/404.html",
-		"oF": 0
-		},
-	"\/_config.yml": {
+	"\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_helpers.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_config.yml",
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_helpers.scssc",
 		"oF": 0
 		},
-	"\/_includes\/footer.html": {
+	"\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_marked.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_marked.scssc",
+		"oF": 0
+		},
+	"\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_normalize.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_normalize.scssc",
+		"oF": 0
+		},
+	"\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_vars.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_vars.scssc",
+		"oF": 0
+		},
+	"\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/Web Serial.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_includes\/footer.html",
+		"oAP": "\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/Web Serial.scssc",
 		"oF": 0
 		},
-	"\/_includes\/header.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_includes\/header.html",
-		"oF": 0
-		},
-	"\/_includes\/js.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_includes\/js.html",
-		"oF": 0
-		},
-	"\/_includes\/url copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_includes\/url copy.html",
-		"oF": 0
-		},
-	"\/_includes\/url.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_includes\/url.html",
-		"oF": 0
-		},
-	"\/_layouts\/chapter.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_layouts\/chapter.html",
-		"oF": 0
-		},
-	"\/_layouts\/default.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_layouts\/default.html",
-		"oF": 0
-		},
-	"\/_layouts\/home.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_layouts\/home.html",
-		"oF": 0
-		},
-	"\/_layouts\/sommaire.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_layouts\/sommaire.html",
-		"oF": 0
-		},
-	"\/_posts\/2018-01-01-divergences.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-01-01-divergences.html",
+	"\/assets\/in\/sass\/_blocks.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/_blocks.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 1,
+		"uL": 1
 		},
-	"\/_posts\/2018-01-01-origine-1.1.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-01-01-origine-1.1.html",
+	"\/assets\/in\/sass\/_components.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/_components.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 1,
+		"uL": 1
 		},
-	"\/_posts\/2018-01-01-origine-1.2.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-01-01-origine-1.2.html",
+	"\/assets\/in\/sass\/_debug.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/_debug.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 1,
+		"uL": 1
 		},
-	"\/_posts\/2018-01-01-plot.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-01-01-plot.html",
+	"\/assets\/in\/sass\/_hacks.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/_hacks.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 1,
+		"uL": 1
 		},
-	"\/_posts\/2018-01-01-prologue-decadence.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-01-01-prologue-decadence.html",
+	"\/assets\/in\/sass\/_helpers.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/_helpers.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 1,
+		"uL": 1
 		},
-	"\/_posts\/2018-05-09-Greg Veder.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-05-09-Greg Veder.html",
+	"\/assets\/in\/sass\/_marked.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/_marked.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 1,
+		"uL": 1
 		},
-	"\/_posts\/2018-05-09-Taylor Hebert.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2018-05-09-Taylor Hebert.html",
+	"\/assets\/in\/sass\/_normalize.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/_normalize.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 1,
+		"uL": 1
 		},
-	"\/about.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/about.html",
+	"\/assets\/in\/sass\/_vars.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 5,
+		"dS": 2,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/in\/sass\/_vars.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 1,
+		"uL": 1
 		},
-	"\/docs\/404\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/404\/index.html",
-		"oF": 0
-		},
-	"\/docs\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/about\/index.html",
-		"oF": 0
-		},
-	"\/docs\/assets\/css\/web-serial.min.css": {
+	"\/assets\/in\/sass\/web-serial.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/docs\/assets\/css\/web-serial.min-min.css",
+		"oAP": "\/assets\/in\/sass\/web-serial-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/docs\/assets\/css\/web-serial.min.css.map": {
+	"\/assets\/in\/sass\/web-serial.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/assets\/css\/web-serial.min.css.map",
+		"oAP": "\/assets\/in\/sass\/web-serial.css.map",
 		"oF": 0
 		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/5833df3b77eb7c8c6dc722c171ef936c4d3172f5\/stylesheet.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/5833df3b77eb7c8c6dc722c171ef936c4d3172f5\/stylesheet.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_blocks.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_blocks.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_components.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_components.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_hacks.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_hacks.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_helpers.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_helpers.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_marked.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_marked.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_normalize.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_normalize.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_vars.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/_vars.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/Web Serial.scssc": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/assets\/in\/sass\/.sass-cache\/a6d1df703fe719a09bb64889479264bba80e8797\/Web Serial.scssc",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/_blocks.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 5,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/_blocks.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/docs\/assets\/in\/sass\/_components.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 5,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/_components.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/docs\/assets\/in\/sass\/_debug.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 5,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/_debug.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/docs\/assets\/in\/sass\/_hacks.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 5,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/_hacks.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/docs\/assets\/in\/sass\/_helpers.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 5,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/_helpers.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/docs\/assets\/in\/sass\/_marked.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 5,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/_marked.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/docs\/assets\/in\/sass\/_normalize.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 5,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/_normalize.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/docs\/assets\/in\/sass\/_vars.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 5,
-		"dS": 2,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/_vars.css",
-		"oF": 0,
-		"oS": 1,
-		"uL": 1
-		},
-	"\/docs\/assets\/in\/sass\/web-serial.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/in\/sass\/web-serial-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/docs\/assets\/in\/sass\/web-serial.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/assets\/in\/sass\/web-serial.css.map",
-		"oF": 0
-		},
-	"\/docs\/assets\/in\/sass\/web-serial.scss": {
+	"\/assets\/in\/sass\/web-serial.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 5,
@@ -488,147 +239,86 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/docs\/assets\/in\/sass\/web-serial.css",
+		"oAP": "\/assets\/in\/sass\/web-serial.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
 		},
-	"\/docs\/assets\/jquery.min.js": {
+	"\/assets\/jquery.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/docs\/assets\/jquery.min-min.js",
+		"oAP": "\/assets\/jquery.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/docs\/assets\/menu-top.png": {
+	"\/assets\/menu-top.png": {
 		"ft": 32768,
 		"iS": 206,
 		"oA": 0,
-		"oAP": "\/docs\/assets\/menu-top.png",
+		"oAP": "\/assets\/menu-top.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/docs\/bower.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/docs\/bower-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/docs\/chapters\/origine-1.1\/index.html": {
+	"\/chapters\/origine-1.1\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/chapters\/origine-1.1\/index.html",
+		"oAP": "\/chapters\/origine-1.1\/index.html",
 		"oF": 0
 		},
-	"\/docs\/chapters\/origine-1.2\/index.html": {
+	"\/chapters\/origine-1.2\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/chapters\/origine-1.2\/index.html",
+		"oAP": "\/chapters\/origine-1.2\/index.html",
 		"oF": 0
 		},
-	"\/docs\/chapters\/prologue-decadence\/index.html": {
+	"\/chapters\/prologue-decadence\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/chapters\/prologue-decadence\/index.html",
+		"oAP": "\/chapters\/prologue-decadence\/index.html",
 		"oF": 0
 		},
-	"\/docs\/characters\/Greg-Veder\/index.html": {
+	"\/characters\/Greg-Veder\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/characters\/Greg-Veder\/index.html",
+		"oAP": "\/characters\/Greg-Veder\/index.html",
 		"oF": 0
 		},
-	"\/docs\/characters\/Taylor-Hebert\/index.html": {
+	"\/characters\/Taylor-Hebert\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/characters\/Taylor-Hebert\/index.html",
+		"oAP": "\/characters\/Taylor-Hebert\/index.html",
 		"oF": 0
 		},
-	"\/docs\/feed.xml": {
+	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/feed.xml",
+		"oAP": "\/CNAME",
 		"oF": 0
 		},
-	"\/docs\/index.html": {
+	"\/feed.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/docs\/index.html",
+		"oAP": "\/feed.xml",
 		"oF": 0
 		},
-	"\/docs\/wiki\/divergences\/index.html": {
+	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/wiki\/divergences\/index.html",
-		"oF": 0
-		},
-	"\/docs\/wiki\/plot\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/docs\/wiki\/plot\/index.html",
-		"oF": 0
-		},
-	"\/Gemfile": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/Gemfile",
-		"oF": 0
-		},
-	"\/Gemfile.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/Gemfile.lock",
-		"oF": 0
-		},
-	"\/index.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
 		"oA": 0,
 		"oAP": "\/index.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/PubLite.sublime-project": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/PubLite.sublime-project",
-		"oF": 0
-		},
-	"\/PubLite.sublime-workspace": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/PubLite.sublime-workspace",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -655,6 +345,20 @@
 		"oA": 0,
 		"oAP": "\/sync.sh",
 		"oF": 0
+		},
+	"\/wiki\/divergences\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wiki\/divergences\/index.html",
+		"oF": 0
+		},
+	"\/wiki\/plot\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wiki\/plot\/index.html",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -672,7 +376,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 554058869,
-	"displayValue": "PubLite",
+	"displayValue": "Ascension - Website",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-soon",
 	"iconImageWasSetByUser": 0
